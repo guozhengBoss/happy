@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["我是开心", "我是一个很厉害的女孩", "爱生活，爱做饭"],
+        strings: ["我是开心仙女", "我是一个很厉害的女孩", "爱生活，爱做饭"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
